@@ -7,10 +7,13 @@ EliteTracker Class in python 2.7 to search and download any torrents (French Tra
 
 `python2 elite-download.py avatar`
 
+![Image of elitepython](https://i.imgur.com/DIkJkNz.gif)
+
 ### Auto downloading first item:
 
 `python2 elite-download.py "Edge of tomorrow" --first`
 
+![Image of elitepython](https://i.imgur.com/WADdYll.gif)
 
 ## Class
 
